@@ -54,11 +54,11 @@ Create a Flutter App for shopping in the style of Vinted
 * Mot de passe : linalina
 
 ### ajout et manquement
-* Ajout :
+* **Ajout** :
 *   Tout est modifiable dans le profil utilisateur, on peut modifier une ou plusieurs informations, sans que cela n'impacte les autres infos.
 *   Un petit logo avec une image permet d'accéder rapidement au profil en haut à droite de la botom bar
 *   Il y a également une sidebar qui permet de naviguer de manière plus interactive avec toutes les pages et également de se déconnecter à tout moment.
-* Manquement : 
+* **Manquement** : 
 *   Je n'ai pas eu le temps de faire la suppression du panier un par un, j'ai eu le temps de faire une fonction qui supprime tout dans le panier ainsi que les boutons pour sélectionner les élements, mais eux aussi ils sélectionnent tout le panier.
 *   Je n'ai pas eu le temps pour les filtres également, c'est dommage car c'est juste une ou deux lignes de code mais je suis à la minute près!
 
@@ -134,4 +134,5 @@ est affichée avec les informations suivantes : Une image (ne pas gérer les ima
 #### us7
 
 * Pour cette partie là, vous avez la liberté de choisir ce que vous souhaitez rajouter dans l’application
+
 
