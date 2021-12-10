@@ -48,7 +48,7 @@ Create a Flutter App for shopping in the style of Vinted
 <!-- UTILISATIONS -->
 ## utilisation
 * Dans le fichier lib se trouve mes code .dart : le main, ainsi que les différents screens et les modeles pour les users et les produits.
-* 
+
 ### mot de passe et login
 * Login : test@test.com
 * Mot de passe : linalina
